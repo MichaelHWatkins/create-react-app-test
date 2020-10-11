@@ -1,3 +1,5 @@
+Description: This project was just a test to see what came with the Create React App bundle.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
